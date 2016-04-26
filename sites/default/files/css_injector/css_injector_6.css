@@ -1,5 +1,8 @@
 div.welcome {
     text-align: center;
-    color: #9c9c9c;
-    padding-bottom: 20px;
+    
+    background: rgba(0, 0, 0, 0.75);  
+    color: lightgray;
+    padding: 20px;
+    border-radius: 10px;  
 }
